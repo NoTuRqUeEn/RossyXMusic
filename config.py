@@ -11,7 +11,7 @@ API_ID = int(getenv("API_ID", 28967047))
 API_HASH = getenv("API_HASH", "9d85609f45b51aa970fa13f6af3d4947")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "7177701189:AAF2aoz5qCdIgdWbvIE4JhqdpLUPn7nFm-0")
+BOT_TOKEN = getenv("BOT_TOKEN", "7177701189:AAGDEuFY9eweY9Gzp_0KThF8XQWipKD1fyM")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://SpicyManager:spicyxnetwork@spicymanager.slsts2l.mongodb.net/?retryWrites=true&w=majority&appName=SpicyManager")
