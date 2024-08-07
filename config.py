@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH", "9d85609f45b51aa970fa13f6af3d4947")
 BOT_TOKEN = getenv("BOT_TOKEN", "7177701189:AAF2aoz5qCdIgdWbvIE4JhqdpLUPn7nFm-0")
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = getenv("MONGO_DB_URI", "7177701189:AAF2aoz5qCdIgdWbvIE4JhqdpLUPn7nFm-0")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://SpicyManager:spicyxnetwork@spicymanager.slsts2l.mongodb.net/?retryWrites=true&w=majority&appName=SpicyManager")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 
